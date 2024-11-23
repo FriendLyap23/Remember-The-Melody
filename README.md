@@ -9,4 +9,4 @@ Link to play on the Yandex games platfor
 ## Technologies
 **Development environment** - Unity\
 **IDE** - Microsoft Visual Studio\
-**Programming language** - C#\
+**Programming language** - C#
