@@ -7,6 +7,6 @@ Link to play on the Yandex games platfor
 [Remember the melody](https://yandex.ru/games/app/382101#info)
 
 ## Technologies
-**Development environment** - Unity
-**IDE** - Microsoft Visual Studio
-**Programming language** - C#
+**Development environment** - Unity\
+**IDE** - Microsoft Visual Studio\
+**Programming language** - C#\
